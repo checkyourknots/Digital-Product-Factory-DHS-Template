@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="INSERT_OR_UPDATE">
+        <payload_hash>b439c547bf96424eb7c1a6767462abdc6df0d936e8b25d227277ca7e9a412d06</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>93c985ef31041e90a9412f8f29cee214</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type"><sys_ux_screen_type action="INSERT_OR_UPDATE"><description/><name>Notification tray</name><sys_class_name>sys_ux_screen_type</sys_class_name><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_638!!!</sys_id><sys_mod_count/><sys_name/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_policy/><sys_scope display_value="">!!!app_sys_id!!!</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on/></sys_ux_screen_type><sys_translated_text action="delete_multiple" query="documentkey=ed0b892fff441e903ca0f6648c4fd92f"/></record_update>]]></serialized_record>
+        <source_class>sys_ux_screen_type</source_class>
+        <source_id>7504eafcff5a42103ca0f6648c4fd9d8</source_id>
+        <source_name>Notification tray</source_name>
+        <source_sys_id>931da1be29070210f53e32d4863634b8</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>john.spirko@snc</sys_created_by>
+        <sys_created_on>2024-07-01 07:35:39</sys_created_on>
+        <sys_id>7136dafad34b02103e3f225a22bf9365</sys_id>
+        <sys_mod_count>64</sys_mod_count>
+        <sys_name>sys_ux_screen_type</sys_name>
+        <sys_package display_value="Pub Sector - DHS Service Desk" source="x_snc_pub_sub_dh_1">56042efcff5a42103ca0f6648c4fd93a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - DHS Service Desk">56042efcff5a42103ca0f6648c4fd93a</sys_scope>
+        <sys_update_name>sys_app_scan_payload_7136dafad34b02103e3f225a22bf9365</sys_update_name>
+        <sys_updated_by>jspirko</sys_updated_by>
+        <sys_updated_on>2024-08-22 03:05:21</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+</record_update>

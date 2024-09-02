@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="INSERT_OR_UPDATE">
+        <payload_hash>13dff754cc601907534bbdb8d64808b93a72cf1d6d6a2aec1a33c12a8fccf1dc</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>93c985ef31041e90a9412f8f29cee214</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="">!!!sys_id_675!!!</catalog_item><catalog_variable>IO:!!!sys_id_687!!!</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><field_message/><field_message_type>none</field_message_type><mandatory>true</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_808!!!</sys_id><sys_mod_count/><sys_name/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_policy/><sys_scope display_value="">!!!app_sys_id!!!</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on/><table/><ui_policy display_value="">!!!sys_id_803!!!</ui_policy><value/><value_action>ignore</value_action><variable>selected_service</variable><variable_set/><visible>true</visible></catalog_ui_policy_action></record_update>]]></serialized_record>
+        <source_class>catalog_ui_policy_action</source_class>
+        <source_id>7504eafcff5a42103ca0f6648c4fd9d8</source_id>
+        <source_name>selected_service</source_name>
+        <source_sys_id>a88bb458ffdbc2103ca0f6648c4fd998</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>jspirko</sys_created_by>
+        <sys_created_on>2024-07-05 23:27:33</sys_created_on>
+        <sys_id>7876de1428570610fbe3831c5d4274b3</sys_id>
+        <sys_mod_count>62</sys_mod_count>
+        <sys_name>catalog_ui_policy_action</sys_name>
+        <sys_package display_value="Pub Sector - DHS Service Desk" source="x_snc_pub_sub_dh_1">56042efcff5a42103ca0f6648c4fd93a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - DHS Service Desk">56042efcff5a42103ca0f6648c4fd93a</sys_scope>
+        <sys_update_name>sys_app_scan_payload_7876de1428570610fbe3831c5d4274b3</sys_update_name>
+        <sys_updated_by>jspirko</sys_updated_by>
+        <sys_updated_on>2024-08-22 03:00:11</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+</record_update>

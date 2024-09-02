@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_variable">
+    <sys_app_scan_variable action="DELETE">
+        <name>sys_id_18684</name>
+        <original_value>2c23ddb83de70e101ae25e37bba1adbc</original_value>
+        <referenced_table>sys_app</referenced_table>
+        <run_script>false</run_script>
+        <scan_instance>4d763b0d7fafce10695bf4e3c4753e1d</scan_instance>
+        <scan_source>scan</scan_source>
+        <source_id>7504eafcff5a42103ca0f6648c4fd9d8</source_id>
+        <sys_class_name>sys_app_scan_variable</sys_class_name>
+        <sys_created_by>jspirko</sys_created_by>
+        <sys_created_on>2024-07-20 00:05:40</sys_created_on>
+        <sys_id>6b652eb4ed674e10531c454aa0943dfd</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>sys_id_18684</sys_name>
+        <sys_package display_value="Pub Sector - DHS Service Desk" source="x_snc_pub_sub_dh_1">56042efcff5a42103ca0f6648c4fd93a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - DHS Service Desk">56042efcff5a42103ca0f6648c4fd93a</sys_scope>
+        <sys_update_name>sys_app_scan_variable_6b652eb4ed674e10531c454aa0943dfd</sys_update_name>
+        <sys_updated_by>jspirko</sys_updated_by>
+        <sys_updated_on>2024-07-21 00:53:51</sys_updated_on>
+        <template_execution_script/>
+        <type display_value="Reference">242d82a65bea101001fb0c370581c7ea</type>
+        <variable_hash>00c68e66615ba3c393cfa647f73061024742f681bb94b11d8a347d6a19a0b0b2</variable_hash>
+    </sys_app_scan_variable>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Pub Sector - DHS Service Desk">56042efcff5a42103ca0f6648c4fd93a</application>
+        <file_path/>
+        <instance_id>76bfb9f61ba9f594fe1b43f4bd4bcb74</instance_id>
+        <instance_name>dsforum</instance_name>
+        <name>sys_app_scan_variable_6b652eb4ed674e10531c454aa0943dfd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_variable"><sys_app_scan_variable action="INSERT_OR_UPDATE"><name>sys_id_18684</name><original_value>2c23ddb83de70e101ae25e37bba1adbc</original_value><referenced_table>sys_app</referenced_table><run_script>false</run_script><scan_instance>4d763b0d7fafce10695bf4e3c4753e1d</scan_instance><scan_source>scan</scan_source><source_id>7504eafcff5a42103ca0f6648c4fd9d8</source_id><sys_class_name>sys_app_scan_variable</sys_class_name><sys_created_by>jspirko</sys_created_by><sys_created_on>2024-07-20 00:05:40</sys_created_on><sys_id>6b652eb4ed674e10531c454aa0943dfd</sys_id><sys_mod_count>2</sys_mod_count><sys_name>sys_id_18684</sys_name><sys_package display_value="Pub Sector - DHS Service Desk" source="x_snc_pub_sub_dh_1">56042efcff5a42103ca0f6648c4fd93a</sys_package><sys_policy/><sys_scope display_value="Pub Sector - DHS Service Desk">56042efcff5a42103ca0f6648c4fd93a</sys_scope><sys_update_name>sys_app_scan_variable_6b652eb4ed674e10531c454aa0943dfd</sys_update_name><sys_updated_by>jspirko</sys_updated_by><sys_updated_on>2024-07-21 00:53:51</sys_updated_on><template_execution_script/><type display_value="Reference">242d82a65bea101001fb0c370581c7ea</type><variable_hash>00c68e66615ba3c393cfa647f73061024742f681bb94b11d8a347d6a19a0b0b2</variable_hash></sys_app_scan_variable></record_update>]]></payload>
+        <payload_hash>-2074003345</payload_hash>
+        <record_name>sys_id_18684</record_name>
+        <reverted_from/>
+        <source>92042efcff5a42103ca0f6648c4fd93c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>jspirko</sys_created_by>
+        <sys_created_on>2024-07-21 00:53:51</sys_created_on>
+        <sys_id>cf0ab785eb2302505204f635cad0cd08</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190d2c7da310000001</sys_recorded_at>
+        <sys_updated_by>jspirko</sys_updated_by>
+        <sys_updated_on>2024-07-21 00:53:51</sys_updated_on>
+        <type>Variable</type>
+        <update_guid>c30ab785ce230250b20a984a4ca7da08</update_guid>
+        <update_guid_history>c30ab785ce230250b20a984a4ca7da08:-2074003345,5c1fab41486fce10742fbc2506c9be83:-1370242485,6b652eb4f9674e1086d8a977e9cbe6fe:-2009862172</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jspirko</sys_created_by>
+        <sys_created_on>2024-07-21 16:38:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_scan_variable">sys_app_scan_variable</sys_db_object>
+        <sys_id>0ff10fb1e0c74c5e882d11a955159ba4</sys_id>
+        <sys_metadata>6b652eb4ed674e10531c454aa0943dfd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_id_18684</sys_name>
+        <sys_package display_value="Pub Sector - DHS Service Desk" source="x_snc_pub_sub_dh_1">56042efcff5a42103ca0f6648c4fd93a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - DHS Service Desk">56042efcff5a42103ca0f6648c4fd93a</sys_scope>
+        <sys_scope_delete display_value="">27b1535901ac4ad4a151d045cd3ad1a1</sys_scope_delete>
+        <sys_update_name>sys_app_scan_variable_6b652eb4ed674e10531c454aa0943dfd</sys_update_name>
+        <sys_update_version display_value="sys_app_scan_variable_6b652eb4ed674e10531c454aa0943dfd">cf0ab785eb2302505204f635cad0cd08</sys_update_version>
+        <sys_updated_by>jspirko</sys_updated_by>
+        <sys_updated_on>2024-07-21 16:38:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_template">
+    <sys_app_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <create_app>true</create_app>
+        <flow display_value="Application Template - Pub Sub - DHS Service Desk - 2024-05-18 20:41:06">66042efcff5a42103ca0f6648c4fd9ba</flow>
+        <name>Pub Sector - DHS Service Desk</name>
+        <referenced_table>sys_app</referenced_table>
+        <snapshot>false</snapshot>
+        <source_id>7504eafcff5a42103ca0f6648c4fd9d8</source_id>
+        <sys_class_name>sys_app_template</sys_class_name>
+        <sys_created_by>jspirko</sys_created_by>
+        <sys_created_on>2024-05-18 20:41:06</sys_created_on>
+        <sys_id>ae04eafcc35a4210e14dfd45499c8162</sys_id>
+        <sys_mod_count>83</sys_mod_count>
+        <sys_name>Pub Sector - DHS Service Desk</sys_name>
+        <sys_package display_value="Pub Sector - DHS Service Desk" source="x_snc_pub_sub_dh_1">56042efcff5a42103ca0f6648c4fd93a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - DHS Service Desk">56042efcff5a42103ca0f6648c4fd93a</sys_scope>
+        <sys_update_name>sys_app_template_ae04eafcc35a4210e14dfd45499c8162</sys_update_name>
+        <sys_updated_by>jspirko</sys_updated_by>
+        <sys_updated_on>2024-08-22 03:00:03</sys_updated_on>
+        <type display_value="Payload &amp; Map">955f08a05b03101083f30f216581c740</type>
+        <ux_framework_component display_value="sn-application-template-wizard">1ecf9a0e28e96e12a39fd11c51397fa4</ux_framework_component>
+    </sys_app_template>
+    <sys_translated_text action="delete_multiple" query="documentkey=ae04eafcc35a4210e14dfd45499c8162"/>
+</record_update>

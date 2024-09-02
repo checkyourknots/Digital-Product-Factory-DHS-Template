@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="INSERT_OR_UPDATE">
+        <payload_hash>dbc396509dc65ee91d141b75c750ff61b170d897aeb75899599e71d470b7e525</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>93c985ef31041e90a9412f8f29cee214</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><misc>0</misc><order>600</order><published_ref/><question display_value="">!!!sys_id_807!!!</question><rec_misc>0</rec_misc><sys_class_name>question_choice</sys_class_name><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_813!!!</sys_id><sys_mod_count/><sys_name/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_policy/><sys_scope display_value="">!!!app_sys_id!!!</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on/><text>Submit a New Idea for a New Service to be Added</text><value>submit_a_new_idea_for_a_new_service_to_be_added</value></question_choice><fx_price action="delete_multiple" query="id=b50a0563ff441e903ca0f6648c4fd903"/></record_update>]]></serialized_record>
+        <source_class>question_choice</source_class>
+        <source_id>7504eafcff5a42103ca0f6648c4fd9d8</source_id>
+        <source_name>Submit a New Idea for a New Service to be Added</source_name>
+        <source_sys_id>8e6d0518ff5fc2103ca0f6648c4fd988</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>jspirko</sys_created_by>
+        <sys_created_on>2024-07-05 23:28:03</sys_created_on>
+        <sys_id>4c961e5410570610718de658f22d0fc8</sys_id>
+        <sys_mod_count>62</sys_mod_count>
+        <sys_name>question_choice</sys_name>
+        <sys_package display_value="Pub Sector - DHS Service Desk" source="x_snc_pub_sub_dh_1">56042efcff5a42103ca0f6648c4fd93a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - DHS Service Desk">56042efcff5a42103ca0f6648c4fd93a</sys_scope>
+        <sys_update_name>sys_app_scan_payload_4c961e5410570610718de658f22d0fc8</sys_update_name>
+        <sys_updated_by>jspirko</sys_updated_by>
+        <sys_updated_on>2024-08-22 03:01:00</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+</record_update>

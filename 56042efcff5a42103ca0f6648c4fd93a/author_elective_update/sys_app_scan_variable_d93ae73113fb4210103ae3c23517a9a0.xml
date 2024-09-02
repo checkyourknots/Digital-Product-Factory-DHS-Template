@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_variable">
+    <sys_app_scan_variable action="DELETE">
+        <name>scoped_name_25159</name>
+        <original_value>initialize_the_program_name_product</original_value>
+        <referenced_table>sys_app</referenced_table>
+        <run_script>false</run_script>
+        <scan_instance>a92aef701e005a5089733b8f5bbce75e</scan_instance>
+        <scan_source>scan</scan_source>
+        <source_id>7504eafcff5a42103ca0f6648c4fd9d8</source_id>
+        <sys_class_name>sys_app_scan_variable</sys_class_name>
+        <sys_created_by>jspirko</sys_created_by>
+        <sys_created_on>2024-08-04 17:55:46</sys_created_on>
+        <sys_id>d93ae73113fb4210103ae3c23517a9a0</sys_id>
+        <sys_mod_count>14</sys_mod_count>
+        <sys_name>scoped_name_25159</sys_name>
+        <sys_package display_value="Pub Sector - DHS Service Desk" source="x_snc_pub_sub_dh_1">56042efcff5a42103ca0f6648c4fd93a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - DHS Service Desk">56042efcff5a42103ca0f6648c4fd93a</sys_scope>
+        <sys_update_name>sys_app_scan_variable_d93ae73113fb4210103ae3c23517a9a0</sys_update_name>
+        <sys_updated_by>jspirko</sys_updated_by>
+        <sys_updated_on>2024-08-14 01:38:32</sys_updated_on>
+        <template_execution_script/>
+        <type display_value="Scoped Name">cb2df31a5b24201083f30f216581c7d3</type>
+        <variable_hash>904bcca75b5d1822579bd8ace117e814c606d1b156bda3a312cf3611a6a9ae07</variable_hash>
+    </sys_app_scan_variable>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Pub Sector - DHS Service Desk">56042efcff5a42103ca0f6648c4fd93a</application>
+        <file_path/>
+        <instance_id>76bfb9f61ba9f594fe1b43f4bd4bcb74</instance_id>
+        <instance_name>dsforum</instance_name>
+        <name>sys_app_scan_variable_d93ae73113fb4210103ae3c23517a9a0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_variable"><sys_app_scan_variable action="INSERT_OR_UPDATE"><name>scoped_name_25159</name><original_value>initialize_the_program_name_product</original_value><referenced_table>sys_app</referenced_table><run_script>false</run_script><scan_instance>a92aef701e005a5089733b8f5bbce75e</scan_instance><scan_source>scan</scan_source><source_id>7504eafcff5a42103ca0f6648c4fd9d8</source_id><sys_class_name>sys_app_scan_variable</sys_class_name><sys_created_by>jspirko</sys_created_by><sys_created_on>2024-08-04 17:55:46</sys_created_on><sys_id>d93ae73113fb4210103ae3c23517a9a0</sys_id><sys_mod_count>14</sys_mod_count><sys_name>scoped_name_25159</sys_name><sys_package display_value="Pub Sector - DHS Service Desk" source="x_snc_pub_sub_dh_1">56042efcff5a42103ca0f6648c4fd93a</sys_package><sys_policy/><sys_scope display_value="Pub Sector - DHS Service Desk">56042efcff5a42103ca0f6648c4fd93a</sys_scope><sys_update_name>sys_app_scan_variable_d93ae73113fb4210103ae3c23517a9a0</sys_update_name><sys_updated_by>jspirko</sys_updated_by><sys_updated_on>2024-08-14 01:38:32</sys_updated_on><template_execution_script/><type display_value="Scoped Name">cb2df31a5b24201083f30f216581c7d3</type><variable_hash>904bcca75b5d1822579bd8ace117e814c606d1b156bda3a312cf3611a6a9ae07</variable_hash></sys_app_scan_variable></record_update>]]></payload>
+        <payload_hash>934829809</payload_hash>
+        <record_name>scoped_name_25159</record_name>
+        <reverted_from/>
+        <source>92042efcff5a42103ca0f6648c4fd93c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>jspirko</sys_created_by>
+        <sys_created_on>2024-08-14 01:38:32</sys_created_on>
+        <sys_id>f76aebf0eb005a505204f635cad0cdf7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1914e8962c10000001</sys_recorded_at>
+        <sys_updated_by>jspirko</sys_updated_by>
+        <sys_updated_on>2024-08-14 01:38:32</sys_updated_on>
+        <type>Variable</type>
+        <update_guid>fb6aebf021005a501c6ed6c954cfd6f6</update_guid>
+        <update_guid_history>fb6aebf021005a501c6ed6c954cfd6f6:934829809,f87bdd10578016501fd642d51a8d6914:-1239238042,286f184cedc8525080f63d732c707ad9:-358520090,c27c5c0007c85250d3fb6683579ed815:-1361880707,a9e852a3a0bf8e102575ad61e36ba279:1806458276,d6761e6f063f8e107abee3b9f3e2c3da:-1588937316,ccc196be3a734a10f983b5ccd595fb43:1345951042,f3f886060537c2100ea171728f475ba6:-1545617643,27569dc249bf8210a51dc2698e9afb37:-1981145665,b5739542c97f8210193bdfbadbf2d15f:1296313511,a0618c4632b38210ac8c32b58c0d18b4:648181799,69ec3b7d75ff421081583fb3501b6b55:-1345534467,b0987b7da27f42100129283a56a95250:2056471666,d4657f79663f421035004e492a535c13:-7642118,d93ae731ecfb42105d7dc64e8047f0a1:-940035995</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jspirko</sys_created_by>
+        <sys_created_on>2024-08-14 05:20:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_scan_variable">sys_app_scan_variable</sys_db_object>
+        <sys_id>49371173471a4ebaa918dd421c201a49</sys_id>
+        <sys_metadata>d93ae73113fb4210103ae3c23517a9a0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>scoped_name_25159</sys_name>
+        <sys_package display_value="Pub Sector - DHS Service Desk" source="x_snc_pub_sub_dh_1">56042efcff5a42103ca0f6648c4fd93a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - DHS Service Desk">56042efcff5a42103ca0f6648c4fd93a</sys_scope>
+        <sys_scope_delete display_value="">27b1535901ac4ad4a151d045cd3ad1a1</sys_scope_delete>
+        <sys_update_name>sys_app_scan_variable_d93ae73113fb4210103ae3c23517a9a0</sys_update_name>
+        <sys_update_version display_value="sys_app_scan_variable_d93ae73113fb4210103ae3c23517a9a0">f76aebf0eb005a505204f635cad0cdf7</sys_update_version>
+        <sys_updated_by>jspirko</sys_updated_by>
+        <sys_updated_on>2024-08-14 05:20:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

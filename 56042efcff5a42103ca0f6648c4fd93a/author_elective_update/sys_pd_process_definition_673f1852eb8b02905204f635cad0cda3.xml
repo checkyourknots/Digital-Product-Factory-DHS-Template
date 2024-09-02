@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_pd_process_definition">
+    <sys_pd_process_definition action="DELETE">
+        <access>public</access>
+        <active>true</active>
+        <description/>
+        <designer_state/>
+        <label>{program name} Playbook</label>
+        <name>_program_name_playbook</name>
+        <now_assist_prompt/>
+        <process_type/>
+        <restartable>RESTARTABLE_FALSE</restartable>
+        <run_on_pad_engine>false</run_on_pad_engine>
+        <schema_version>2</schema_version>
+        <snapshot/>
+        <status>draft</status>
+        <sys_class_name>sys_pd_process_definition</sys_class_name>
+        <sys_created_by>jspirko</sys_created_by>
+        <sys_created_on>2024-06-29 09:38:52</sys_created_on>
+        <sys_id>673f1852eb8b02905204f635cad0cda3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>{program name} Playbook</sys_name>
+        <sys_package display_value="Pub Sector - DHS Service Desk" source="x_snc_pub_sub_dh_1">56042efcff5a42103ca0f6648c4fd93a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - DHS Service Desk">56042efcff5a42103ca0f6648c4fd93a</sys_scope>
+        <sys_update_name>sys_pd_process_definition_673f1852eb8b02905204f635cad0cda3</sys_update_name>
+        <sys_updated_by>jspirko</sys_updated_by>
+        <sys_updated_on>2024-06-29 09:38:53</sys_updated_on>
+        <view_type>KANBAN</view_type>
+    </sys_pd_process_definition>
+    <sys_pd_process_definition action="DELETE">
+        <access>public</access>
+        <active>true</active>
+        <description/>
+        <designer_state/>
+        <label>{program name} Playbook</label>
+        <name>_program_name_playbook</name>
+        <now_assist_prompt/>
+        <process_type/>
+        <restartable>RESTARTABLE_FALSE</restartable>
+        <run_on_pad_engine>false</run_on_pad_engine>
+        <schema_version>2</schema_version>
+        <snapshot/>
+        <status>draft</status>
+        <sys_class_name>sys_pd_process_definition</sys_class_name>
+        <sys_created_by>jspirko</sys_created_by>
+        <sys_created_on>2024-06-29 09:38:52</sys_created_on>
+        <sys_id>673f1852eb8b02905204f635cad0cda3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>{program name} Playbook</sys_name>
+        <sys_package display_value="Pub Sector - DHS Service Desk" source="x_snc_pub_sub_dh_1">56042efcff5a42103ca0f6648c4fd93a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - DHS Service Desk">56042efcff5a42103ca0f6648c4fd93a</sys_scope>
+        <sys_update_name>sys_pd_process_definition_673f1852eb8b02905204f635cad0cda3</sys_update_name>
+        <sys_updated_by>jspirko</sys_updated_by>
+        <sys_updated_on>2024-06-29 09:38:53</sys_updated_on>
+        <view_type>KANBAN</view_type>
+    </sys_pd_process_definition>
+    <sys_pd_lane action="DELETE" query="process_definition=673f1852eb8b02905204f635cad0cda3"/>
+    <sys_pd_activity action="DELETE" query="process_definition=673f1852eb8b02905204f635cad0cda3"/>
+    <sys_pd_snapshot action="DELETE" query="sys_id="/>
+    <sys_json_chunk action="DELETE" query="document_id="/>
+    <sys_pd_snapshot_chunk action="DELETE" query="document_id="/>
+    <sys_pd_trigger_instance action="DELETE" query="sys_id=3f3f1852eb8b02905204f635cad0cda7^sys_idNOT IN3f3f1852eb8b02905204f635cad0cda7"/>
+    <sys_pd_trigger_instance action="DELETE">
+        <label/>
+        <name/>
+        <process_definition display_value="{program name} Playbook">673f1852eb8b02905204f635cad0cda3</process_definition>
+        <sys_created_by>jspirko</sys_created_by>
+        <sys_created_on>2024-06-29 09:38:53</sys_created_on>
+        <sys_id>3f3f1852eb8b02905204f635cad0cda7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope display_value="Pub Sector - DHS Service Desk">56042efcff5a42103ca0f6648c4fd93a</sys_scope>
+        <sys_updated_by>jspirko</sys_updated_by>
+        <sys_updated_on>2024-06-29 09:38:53</sys_updated_on>
+        <trigger_definition/>
+        <trigger_inputs/>
+        <trigger_type display_value="Record Create">ab6951170f1200108c87f4f0ff767e4f</trigger_type>
+    </sys_pd_trigger_instance>
+    <sys_variable_value action="DELETE" query="document_key=3f3f1852eb8b02905204f635cad0cda7"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Pub Sector - DHS Service Desk">56042efcff5a42103ca0f6648c4fd93a</application>
+        <file_path/>
+        <instance_id>76bfb9f61ba9f594fe1b43f4bd4bcb74</instance_id>
+        <instance_name>dsforum</instance_name>
+        <name>sys_pd_process_definition_673f1852eb8b02905204f635cad0cda3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_pd_process_definition"><sys_pd_process_definition action="INSERT_OR_UPDATE"><access>public</access><active>true</active><description/><designer_state/><label>{program name} Playbook</label><name>_program_name_playbook</name><now_assist_prompt/><process_type/><restartable>RESTARTABLE_FALSE</restartable><run_on_pad_engine>false</run_on_pad_engine><schema_version>2</schema_version><snapshot/><status>draft</status><sys_class_name>sys_pd_process_definition</sys_class_name><sys_created_by>jspirko</sys_created_by><sys_created_on>2024-06-29 09:38:52</sys_created_on><sys_id>673f1852eb8b02905204f635cad0cda3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>{program name} Playbook</sys_name><sys_package display_value="Pub Sector - DHS Service Desk" source="x_snc_pub_sub_dh_1">56042efcff5a42103ca0f6648c4fd93a</sys_package><sys_policy/><sys_scope display_value="Pub Sector - DHS Service Desk">56042efcff5a42103ca0f6648c4fd93a</sys_scope><sys_update_name>sys_pd_process_definition_673f1852eb8b02905204f635cad0cda3</sys_update_name><sys_updated_by>jspirko</sys_updated_by><sys_updated_on>2024-06-29 09:38:53</sys_updated_on><view_type>KANBAN</view_type></sys_pd_process_definition><sys_pd_process_definition action="INSERT_OR_UPDATE"><access>public</access><active>true</active><description/><designer_state/><label>{program name} Playbook</label><name>_program_name_playbook</name><now_assist_prompt/><process_type/><restartable>RESTARTABLE_FALSE</restartable><run_on_pad_engine>false</run_on_pad_engine><schema_version>2</schema_version><snapshot/><status>draft</status><sys_class_name>sys_pd_process_definition</sys_class_name><sys_created_by>jspirko</sys_created_by><sys_created_on>2024-06-29 09:38:52</sys_created_on><sys_id>673f1852eb8b02905204f635cad0cda3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>{program name} Playbook</sys_name><sys_package display_value="Pub Sector - DHS Service Desk" source="x_snc_pub_sub_dh_1">56042efcff5a42103ca0f6648c4fd93a</sys_package><sys_policy/><sys_scope display_value="Pub Sector - DHS Service Desk">56042efcff5a42103ca0f6648c4fd93a</sys_scope><sys_update_name>sys_pd_process_definition_673f1852eb8b02905204f635cad0cda3</sys_update_name><sys_updated_by>jspirko</sys_updated_by><sys_updated_on>2024-06-29 09:38:53</sys_updated_on><view_type>KANBAN</view_type></sys_pd_process_definition><sys_pd_lane action="delete_multiple" query="process_definition=673f1852eb8b02905204f635cad0cda3"/><sys_pd_activity action="delete_multiple" query="process_definition=673f1852eb8b02905204f635cad0cda3"/><sys_pd_snapshot action="delete_multiple" query="sys_id="/><sys_json_chunk action="delete_multiple" query="document_id="/><sys_pd_snapshot_chunk action="delete_multiple" query="document_id="/><sys_pd_trigger_instance action="delete_multiple" query="sys_id=3f3f1852eb8b02905204f635cad0cda7^sys_idNOT IN3f3f1852eb8b02905204f635cad0cda7"/><sys_pd_trigger_instance action="INSERT_OR_UPDATE"><label/><name/><process_definition display_value="{program name} Playbook">673f1852eb8b02905204f635cad0cda3</process_definition><sys_created_by>jspirko</sys_created_by><sys_created_on>2024-06-29 09:38:53</sys_created_on><sys_id>3f3f1852eb8b02905204f635cad0cda7</sys_id><sys_mod_count>0</sys_mod_count><sys_scope display_value="Pub Sector - DHS Service Desk">56042efcff5a42103ca0f6648c4fd93a</sys_scope><sys_updated_by>jspirko</sys_updated_by><sys_updated_on>2024-06-29 09:38:53</sys_updated_on><trigger_definition/><trigger_inputs/><trigger_type display_value="Record Create">ab6951170f1200108c87f4f0ff767e4f</trigger_type></sys_pd_trigger_instance><sys_variable_value action="delete_multiple" query="document_key=3f3f1852eb8b02905204f635cad0cda7"/></record_update>]]></payload>
+        <payload_hash>405982739</payload_hash>
+        <record_name>{program name} Playbook</record_name>
+        <reverted_from/>
+        <source>92042efcff5a42103ca0f6648c4fd93c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>jspirko</sys_created_by>
+        <sys_created_on>2024-06-29 09:38:53</sys_created_on>
+        <sys_id>ff3f1852eb8b02905204f635cad0cdac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190635ca2430000001</sys_recorded_at>
+        <sys_updated_by>jspirko</sys_updated_by>
+        <sys_updated_on>2024-06-29 09:38:53</sys_updated_on>
+        <type>Process Definition</type>
+        <update_guid>b33f1852428b02908459970047cfc4ac</update_guid>
+        <update_guid_history>b33f1852428b02908459970047cfc4ac:405982739,f33f1852ed8b029074026c61c38850a6:1915982005</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jspirko</sys_created_by>
+        <sys_created_on>2024-06-30 00:29:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_pd_process_definition">sys_pd_process_definition</sys_db_object>
+        <sys_id>28001c648e60400a9706160482608384</sys_id>
+        <sys_metadata>673f1852eb8b02905204f635cad0cda3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>{program name} Playbook</sys_name>
+        <sys_package display_value="Pub Sector - DHS Service Desk" source="x_snc_pub_sub_dh_1">56042efcff5a42103ca0f6648c4fd93a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - DHS Service Desk">56042efcff5a42103ca0f6648c4fd93a</sys_scope>
+        <sys_scope_delete display_value="">27b1535901ac4ad4a151d045cd3ad1a1</sys_scope_delete>
+        <sys_update_name>sys_pd_process_definition_673f1852eb8b02905204f635cad0cda3</sys_update_name>
+        <sys_update_version display_value="sys_pd_process_definition_673f1852eb8b02905204f635cad0cda3">ff3f1852eb8b02905204f635cad0cdac</sys_update_version>
+        <sys_updated_by>jspirko</sys_updated_by>
+        <sys_updated_on>2024-06-30 00:29:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="INSERT_OR_UPDATE">
+        <payload_hash>33889cb37325caf92507a136dd50426418fb76b783c17bb976a81080a93f25a6</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>93c985ef31041e90a9412f8f29cee214</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen"><sys_ux_screen action="INSERT_OR_UPDATE"><active>true</active><app_config/><description/><disable_auto_reflow>false</disable_auto_reflow><event_mappings/><macroponent display_value="Workspace notification">2683731bb7fa5010fddc6c91de11a93c</macroponent><macroponent_config/><name>Notification tray default</name><order>0</order><parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent><required_translations>[]</required_translations><rollback_screen/><screen_condition/><screen_type display_value="">!!!sys_id_638!!!</screen_type><sys_class_name>sys_ux_screen</sys_class_name><sys_created_by/><sys_created_on/><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>!!!sys_id_639!!!</sys_id><sys_mod_count/><sys_name/><sys_overrides/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_policy/><sys_scope display_value="">!!!app_sys_id!!!</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on/></sys_ux_screen><sys_translated_text action="delete_multiple" query="documentkey=23fa052fff441e903ca0f6648c4fd978"/></record_update>]]></serialized_record>
+        <source_class>sys_ux_screen</source_class>
+        <source_id>7504eafcff5a42103ca0f6648c4fd9d8</source_id>
+        <source_name>Notification tray default</source_name>
+        <source_sys_id>1b1da1be410702107a8493ef1a1773af</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>john.spirko@snc</sys_created_by>
+        <sys_created_on>2024-07-01 07:35:33</sys_created_on>
+        <sys_id>50365afaa94b02106982fddd3fdc3907</sys_id>
+        <sys_mod_count>64</sys_mod_count>
+        <sys_name>sys_ux_screen</sys_name>
+        <sys_package display_value="Pub Sector - DHS Service Desk" source="x_snc_pub_sub_dh_1">56042efcff5a42103ca0f6648c4fd93a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - DHS Service Desk">56042efcff5a42103ca0f6648c4fd93a</sys_scope>
+        <sys_update_name>sys_app_scan_payload_50365afaa94b02106982fddd3fdc3907</sys_update_name>
+        <sys_updated_by>jspirko</sys_updated_by>
+        <sys_updated_on>2024-08-22 03:05:13</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+</record_update>

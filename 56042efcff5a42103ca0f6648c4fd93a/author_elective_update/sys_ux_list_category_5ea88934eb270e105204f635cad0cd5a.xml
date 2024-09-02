@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list_category">
+    <sys_ux_list_category action="DELETE">
+        <active>true</active>
+        <configuration display_value="CSM/FSM Configurable Workspace List Menu Config">0b62b8ba77d650102c30945caa106138</configuration>
+        <description/>
+        <order/>
+        <sys_class_name>sys_ux_list_category</sys_class_name>
+        <sys_created_by>jspirko</sys_created_by>
+        <sys_created_on>2024-07-19 17:20:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5ea88934eb270e105204f635cad0cd5a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TANF 2</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Pub Sector - DHS Service Desk" source="x_snc_pub_sub_dh_1">56042efcff5a42103ca0f6648c4fd93a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - DHS Service Desk">56042efcff5a42103ca0f6648c4fd93a</sys_scope>
+        <sys_update_name>sys_ux_list_category_5ea88934eb270e105204f635cad0cd5a</sys_update_name>
+        <sys_updated_by>jspirko</sys_updated_by>
+        <sys_updated_on>2024-07-19 17:20:21</sys_updated_on>
+        <title>TANF 2</title>
+    </sys_ux_list_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Pub Sector - DHS Service Desk">56042efcff5a42103ca0f6648c4fd93a</application>
+        <file_path/>
+        <instance_id>76bfb9f61ba9f594fe1b43f4bd4bcb74</instance_id>
+        <instance_name>dsforum</instance_name>
+        <name>sys_ux_list_category_5ea88934eb270e105204f635cad0cd5a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list_category"><sys_ux_list_category action="INSERT_OR_UPDATE"><active>true</active><configuration display_value="CSM/FSM Configurable Workspace List Menu Config">0b62b8ba77d650102c30945caa106138</configuration><description/><order/><sys_class_name>sys_ux_list_category</sys_class_name><sys_created_by>jspirko</sys_created_by><sys_created_on>2024-07-19 17:20:21</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5ea88934eb270e105204f635cad0cd5a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>TANF 2</sys_name><sys_overrides/><sys_package display_value="Pub Sector - DHS Service Desk" source="x_snc_pub_sub_dh_1">56042efcff5a42103ca0f6648c4fd93a</sys_package><sys_policy/><sys_scope display_value="Pub Sector - DHS Service Desk">56042efcff5a42103ca0f6648c4fd93a</sys_scope><sys_update_name>sys_ux_list_category_5ea88934eb270e105204f635cad0cd5a</sys_update_name><sys_updated_by>jspirko</sys_updated_by><sys_updated_on>2024-07-19 17:20:21</sys_updated_on><title>TANF 2</title></sys_ux_list_category></record_update>]]></payload>
+        <payload_hash>-1465779079</payload_hash>
+        <record_name>TANF 2</record_name>
+        <reverted_from/>
+        <source>92042efcff5a42103ca0f6648c4fd93c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>jspirko</sys_created_by>
+        <sys_created_on>2024-07-19 17:20:21</sys_created_on>
+        <sys_id>1aa88934eb270e105204f635cad0cd5d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190cc024f550000001</sys_recorded_at>
+        <sys_updated_by>jspirko</sys_updated_by>
+        <sys_updated_on>2024-07-19 17:20:21</sys_updated_on>
+        <type>UX List Category</type>
+        <update_guid>daa88934ab270e10775d647a2eaaa25c</update_guid>
+        <update_guid_history>daa88934ab270e10775d647a2eaaa25c:-1465779079</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jspirko</sys_created_by>
+        <sys_created_on>2024-07-22 04:02:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_list_category">sys_ux_list_category</sys_db_object>
+        <sys_id>71fadfea9bf04320ba7221b82440bc91</sys_id>
+        <sys_metadata>5ea88934eb270e105204f635cad0cd5a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TANF 2</sys_name>
+        <sys_package display_value="Pub Sector - DHS Service Desk" source="x_snc_pub_sub_dh_1">56042efcff5a42103ca0f6648c4fd93a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - DHS Service Desk">56042efcff5a42103ca0f6648c4fd93a</sys_scope>
+        <sys_scope_delete display_value="">27b1535901ac4ad4a151d045cd3ad1a1</sys_scope_delete>
+        <sys_update_name>sys_ux_list_category_5ea88934eb270e105204f635cad0cd5a</sys_update_name>
+        <sys_update_version display_value="sys_ux_list_category_5ea88934eb270e105204f635cad0cd5a">1aa88934eb270e105204f635cad0cd5d</sys_update_version>
+        <sys_updated_by>jspirko</sys_updated_by>
+        <sys_updated_on>2024-07-22 04:02:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

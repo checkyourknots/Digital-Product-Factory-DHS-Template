@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="INSERT_OR_UPDATE">
+        <payload_hash>aa41f0a852a4827da16dcaa3660937d332756b86a0acb94644f84c4c863bbfc0</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>93c985ef31041e90a9412f8f29cee214</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route"><sys_ux_app_route action="INSERT_OR_UPDATE"><app_config/><description/><extension_point/><fields/><icon/><name>Analytics Center</name><optional_parameters>tab,filter</optional_parameters><order>0</order><parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent><parent_macroponent_composition_element_id/><route_type>analytics-center</route_type><screen_type display_value="">!!!sys_id_598!!!</screen_type><sys_class_name>sys_ux_app_route</sys_class_name><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_599!!!</sys_id><sys_mod_count/><sys_name/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_policy/><sys_scope display_value="">!!!app_sys_id!!!</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on/></sys_ux_app_route><sys_translated_text action="delete_multiple" query="documentkey=ebeac9ebff441e903ca0f6648c4fd945"/></record_update>]]></serialized_record>
+        <source_class>sys_ux_app_route</source_class>
+        <source_id>7504eafcff5a42103ca0f6648c4fd9d8</source_id>
+        <source_name>Analytics Center</source_name>
+        <source_sys_id>76742a12178b4290c005573a8e45b5cd</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>john.spirko@snc</sys_created_by>
+        <sys_created_on>2024-07-01 07:35:26</sys_created_on>
+        <sys_id>a22696fa2b4b02101eb10633adf02273</sys_id>
+        <sys_mod_count>64</sys_mod_count>
+        <sys_name>sys_ux_app_route</sys_name>
+        <sys_package display_value="Pub Sector - DHS Service Desk" source="x_snc_pub_sub_dh_1">56042efcff5a42103ca0f6648c4fd93a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - DHS Service Desk">56042efcff5a42103ca0f6648c4fd93a</sys_scope>
+        <sys_update_name>sys_app_scan_payload_a22696fa2b4b02101eb10633adf02273</sys_update_name>
+        <sys_updated_by>jspirko</sys_updated_by>
+        <sys_updated_on>2024-08-22 03:04:57</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+</record_update>

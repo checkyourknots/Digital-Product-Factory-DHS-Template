@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_variable">
+    <sys_app_scan_variable action="INSERT_OR_UPDATE">
+        <name>source_app_dependency_26845</name>
+        <original_value>sn_gsm_srvc_req</original_value>
+        <referenced_table>sys_app</referenced_table>
+        <run_script>false</run_script>
+        <scan_instance>93c985ef31041e90a9412f8f29cee214</scan_instance>
+        <scan_source>scan</scan_source>
+        <source_id>7504eafcff5a42103ca0f6648c4fd9d8</source_id>
+        <sys_class_name>sys_app_scan_variable</sys_class_name>
+        <sys_created_by>jspirko</sys_created_by>
+        <sys_created_on>2024-08-11 02:47:28</sys_created_on>
+        <sys_id>687d14c486c85250a582fed434897a8e</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>source_app_dependency_26845</sys_name>
+        <sys_package display_value="Pub Sector - DHS Service Desk" source="x_snc_pub_sub_dh_1">56042efcff5a42103ca0f6648c4fd93a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - DHS Service Desk">56042efcff5a42103ca0f6648c4fd93a</sys_scope>
+        <sys_update_name>sys_app_scan_variable_687d14c486c85250a582fed434897a8e</sys_update_name>
+        <sys_updated_by>jspirko</sys_updated_by>
+        <sys_updated_on>2024-08-22 03:05:23</sys_updated_on>
+        <template_execution_script/>
+        <type display_value="Source App Dependency">d0cbd759530201104c88ddeeff7b1236</type>
+        <variable_hash>d08222f8c77e107526be0b463c742637c5e3b0c2ab561aa0b44aaa31caf4c8df</variable_hash>
+    </sys_app_scan_variable>
+</record_update>

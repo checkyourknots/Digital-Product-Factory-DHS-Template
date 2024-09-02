@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="INSERT_OR_UPDATE">
+        <payload_hash>b4e9c92aba6888548ce234574b08764e95a910a0fd5998089eb6d05962ba4def</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>93c985ef31041e90a9412f8f29cee214</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_suggestion_reader_group"><sys_suggestion_reader_group action="INSERT_OR_UPDATE"><click_in_mode>false</click_in_mode><context_config_id/><limit>5</limit><order>300</order><section_header/><suggestion_type>Suggested Query Reader Group for Starter Workspace - Workspace Search</suggestion_type><sys_class_name>sys_suggestion_reader_group</sys_class_name><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_382!!!</sys_id><sys_mod_count/><sys_name/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_policy/><sys_scope display_value="">!!!app_sys_id!!!</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on/></sys_suggestion_reader_group></record_update>]]></serialized_record>
+        <source_class>sys_suggestion_reader_group</source_class>
+        <source_id>7504eafcff5a42103ca0f6648c4fd9d8</source_id>
+        <source_name>Suggested Query Reader Group for Starter Workspace - Workspace Search</source_name>
+        <source_sys_id>9b1da1be3f070210ce819c0c2682aabf</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>john.spirko@snc</sys_created_by>
+        <sys_created_on>2024-07-01 07:34:44</sys_created_on>
+        <sys_id>940656ba714b0210564ad1cfa9531218</sys_id>
+        <sys_mod_count>64</sys_mod_count>
+        <sys_name>sys_suggestion_reader_group</sys_name>
+        <sys_package display_value="Pub Sector - DHS Service Desk" source="x_snc_pub_sub_dh_1">56042efcff5a42103ca0f6648c4fd93a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - DHS Service Desk">56042efcff5a42103ca0f6648c4fd93a</sys_scope>
+        <sys_update_name>sys_app_scan_payload_940656ba714b0210564ad1cfa9531218</sys_update_name>
+        <sys_updated_by>jspirko</sys_updated_by>
+        <sys_updated_on>2024-08-22 03:03:04</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+</record_update>
