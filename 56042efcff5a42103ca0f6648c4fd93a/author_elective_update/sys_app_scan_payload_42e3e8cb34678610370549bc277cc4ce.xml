@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="DELETE">
+        <payload_hash>68113435abbad0cdf66477812a1155f7e0eaa965cbc2b6eaf62b8341d667deac</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>9f7cad9f0bab0a105aea2615b439c3c3</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_pd_process_definition action="INSERT_OR_UPDATE"><access>public</access><active>true</active><description/><designer_state/><label>Application Processing Playbook</label><name>application_processing_playbook</name><now_assist_prompt/><process_type/><restartable>RESTARTABLE_FALSE</restartable><run_on_pad_engine>false</run_on_pad_engine><schema_version>2</schema_version><snapshot/><start_non_blocking>true</start_non_blocking><status>draft</status><sys_class_name>sys_pd_process_definition</sys_class_name><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_24756!!!</sys_id><sys_mod_count/><sys_name/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_policy/><sys_scope display_value="">!!!app_sys_id!!!</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on/><view_type>KANBAN</view_type></sys_pd_process_definition><sys_pd_activity action="delete_multiple" query="process_definition=c073644bff6786103ca0f6648c4fd9a6"/><sys_json_chunk action="delete_multiple" query="document_id="/><sys_pd_trigger_instance action="delete_multiple" query="sys_id=4073644bff6786103ca0f6648c4fd9ad^sys_idNOT IN4073644bff6786103ca0f6648c4fd9ad"/><sys_pd_trigger_instance action="INSERT_OR_UPDATE"><label>Service Request Trigger Definition</label><name>service_request_trigger_definition</name><process_definition display_value="Application Processing Playbook">c073644bff6786103ca0f6648c4fd9a6</process_definition><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_24758!!!</sys_id><sys_mod_count/><sys_scope display_value="">!!!sys_id_24759!!!</sys_scope><sys_updated_by/><sys_updated_on/><trigger_definition display_value="">!!!sys_id_24757!!!</trigger_definition><trigger_inputs/><trigger_type display_value="Record Create">ab6951170f1200108c87f4f0ff767e4f</trigger_type></sys_pd_trigger_instance><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_pd_trigger_instance</document><document_key>!!!sys_id_24758!!!</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_24760!!!</sys_id><sys_mod_count/><sys_updated_by/><sys_updated_on/><value>sn_gsm_service_request_case</value><variable display_value="Table">a8ae38d1ff2200108c8733af793bf15c</variable></sys_variable_value></record_update>]]></serialized_record>
+        <source_class>sys_pd_process_definition</source_class>
+        <source_id>7504eafcff5a42103ca0f6648c4fd9d8</source_id>
+        <source_name>Application Processing Playbook</source_name>
+        <source_sys_id>c073644bff6786103ca0f6648c4fd9a6</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>jspirko</sys_created_by>
+        <sys_created_on>2024-07-26 14:26:05</sys_created_on>
+        <sys_id>42e3e8cb34678610370549bc277cc4ce</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>sys_pd_process_definition</sys_name>
+        <sys_package display_value="Pub Sector - DHS Service Desk" source="x_snc_pub_sub_dh_1">56042efcff5a42103ca0f6648c4fd93a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - DHS Service Desk">56042efcff5a42103ca0f6648c4fd93a</sys_scope>
+        <sys_update_name>sys_app_scan_payload_42e3e8cb34678610370549bc277cc4ce</sys_update_name>
+        <sys_updated_by>jspirko</sys_updated_by>
+        <sys_updated_on>2024-07-27 14:23:01</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Pub Sector - DHS Service Desk">56042efcff5a42103ca0f6648c4fd93a</application>
+        <file_path/>
+        <instance_id>76bfb9f61ba9f594fe1b43f4bd4bcb74</instance_id>
+        <instance_name>dsforum</instance_name>
+        <name>sys_app_scan_payload_42e3e8cb34678610370549bc277cc4ce</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_app_scan_payload"&gt;&lt;sys_app_scan_payload action="INSERT_OR_UPDATE"&gt;&lt;payload_hash&gt;68113435abbad0cdf66477812a1155f7e0eaa965cbc2b6eaf62b8341d667deac&lt;/payload_hash&gt;&lt;referenced_table&gt;sys_app&lt;/referenced_table&gt;&lt;scan_instance&gt;9f7cad9f0bab0a105aea2615b439c3c3&lt;/scan_instance&gt;&lt;scan_source&gt;scan&lt;/scan_source&gt;&lt;serialized_record&gt;&lt;![CDATA[&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_pd_process_definition action="INSERT_OR_UPDATE"&gt;&lt;access&gt;public&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;description/&gt;&lt;designer_state/&gt;&lt;label&gt;Application Processing Playbook&lt;/label&gt;&lt;name&gt;application_processing_playbook&lt;/name&gt;&lt;now_assist_prompt/&gt;&lt;process_type/&gt;&lt;restartable&gt;RESTARTABLE_FALSE&lt;/restartable&gt;&lt;run_on_pad_engine&gt;false&lt;/run_on_pad_engine&gt;&lt;schema_version&gt;2&lt;/schema_version&gt;&lt;snapshot/&gt;&lt;start_non_blocking&gt;true&lt;/start_non_blocking&gt;&lt;status&gt;draft&lt;/status&gt;&lt;sys_class_name&gt;sys_pd_process_definition&lt;/sys_class_name&gt;&lt;sys_created_by/&gt;&lt;sys_created_on/&gt;&lt;sys_id&gt;!!!sys_id_24756!!!&lt;/sys_id&gt;&lt;sys_mod_count/&gt;&lt;sys_name/&gt;&lt;sys_package display_value=""&gt;!!!app_sys_id!!!&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value=""&gt;!!!app_sys_id!!!&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by/&gt;&lt;sys_updated_on/&gt;&lt;view_type&gt;KANBAN&lt;/view_type&gt;&lt;/sys_pd_process_definition&gt;&lt;sys_pd_activity action="delete_multiple" query="process_definition=c073644bff6786103ca0f6648c4fd9a6"/&gt;&lt;sys_json_chunk action="delete_multiple" query="document_id="/&gt;&lt;sys_pd_trigger_instance action="delete_multiple" query="sys_id=4073644bff6786103ca0f6648c4fd9ad^sys_idNOT IN4073644bff6786103ca0f6648c4fd9ad"/&gt;&lt;sys_pd_trigger_instance action="INSERT_OR_UPDATE"&gt;&lt;label&gt;Service Request Trigger Definition&lt;/label&gt;&lt;name&gt;service_request_trigger_definition&lt;/name&gt;&lt;process_definition display_value="Application Processing Playbook"&gt;c073644bff6786103ca0f6648c4fd9a6&lt;/process_definition&gt;&lt;sys_created_by/&gt;&lt;sys_created_on/&gt;&lt;sys_id&gt;!!!sys_id_24758!!!&lt;/sys_id&gt;&lt;sys_mod_count/&gt;&lt;sys_scope display_value=""&gt;!!!sys_id_24759!!!&lt;/sys_scope&gt;&lt;sys_updated_by/&gt;&lt;sys_updated_on/&gt;&lt;trigger_definition display_value=""&gt;!!!sys_id_24757!!!&lt;/trigger_definition&gt;&lt;trigger_inputs/&gt;&lt;trigger_type display_value="Record Create"&gt;ab6951170f1200108c87f4f0ff767e4f&lt;/trigger_type&gt;&lt;/sys_pd_trigger_instance&gt;&lt;sys_variable_value action="INSERT_OR_UPDATE"&gt;&lt;document&gt;sys_pd_trigger_instance&lt;/document&gt;&lt;document_key&gt;!!!sys_id_24758!!!&lt;/document_key&gt;&lt;order&gt;100&lt;/order&gt;&lt;sys_class_name&gt;sys_variable_value&lt;/sys_class_name&gt;&lt;sys_created_by/&gt;&lt;sys_created_on/&gt;&lt;sys_id&gt;!!!sys_id_24760!!!&lt;/sys_id&gt;&lt;sys_mod_count/&gt;&lt;sys_updated_by/&gt;&lt;sys_updated_on/&gt;&lt;value&gt;sn_gsm_service_request_case&lt;/value&gt;&lt;variable display_value="Table"&gt;a8ae38d1ff2200108c8733af793bf15c&lt;/variable&gt;&lt;/sys_variable_value&gt;&lt;/record_update&gt;]]&gt;&lt;/serialized_record&gt;&lt;source_class&gt;sys_pd_process_definition&lt;/source_class&gt;&lt;source_id&gt;7504eafcff5a42103ca0f6648c4fd9d8&lt;/source_id&gt;&lt;source_name&gt;Application Processing Playbook&lt;/source_name&gt;&lt;source_sys_id&gt;c073644bff6786103ca0f6648c4fd9a6&lt;/source_sys_id&gt;&lt;sys_class_name&gt;sys_app_scan_payload&lt;/sys_class_name&gt;&lt;sys_created_by&gt;jspirko&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-07-26 14:26:05&lt;/sys_created_on&gt;&lt;sys_id&gt;42e3e8cb34678610370549bc277cc4ce&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;sys_pd_process_definition&lt;/sys_name&gt;&lt;sys_package display_value="Pub Sector - DHS Service Desk" source="x_snc_pub_sub_dh_1"&gt;56042efcff5a42103ca0f6648c4fd93a&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Pub Sector - DHS Service Desk"&gt;56042efcff5a42103ca0f6648c4fd93a&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_app_scan_payload_42e3e8cb34678610370549bc277cc4ce&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;jspirko&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-07-27 14:23:01&lt;/sys_updated_on&gt;&lt;version&gt;1&lt;/version&gt;&lt;/sys_app_scan_payload&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1819792086</payload_hash>
+        <record_name>sys_pd_process_definition</record_name>
+        <reverted_from/>
+        <source>92042efcff5a42103ca0f6648c4fd93c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>jspirko</sys_created_by>
+        <sys_created_on>2024-07-27 14:23:01</sys_created_on>
+        <sys_id>becc2153ffeb0a103ca0f6648c4fd991</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190f492d4250000001</sys_recorded_at>
+        <sys_updated_by>jspirko</sys_updated_by>
+        <sys_updated_on>2024-07-27 14:23:01</sys_updated_on>
+        <type>Payload</type>
+        <update_guid>b2cc2153b4eb0a10ca88de213a0b2391</update_guid>
+        <update_guid_history>b2cc2153b4eb0a10ca88de213a0b2391:1819792086,0ee3e8cb77678610619d2765280b86cf:-322703341</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jspirko</sys_created_by>
+        <sys_created_on>2024-07-28 20:12:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_scan_payload">sys_app_scan_payload</sys_db_object>
+        <sys_id>7dcd9e42075946f387d9afa152f3e611</sys_id>
+        <sys_metadata>42e3e8cb34678610370549bc277cc4ce</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_pd_process_definition</sys_name>
+        <sys_package display_value="Pub Sector - DHS Service Desk" source="x_snc_pub_sub_dh_1">56042efcff5a42103ca0f6648c4fd93a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - DHS Service Desk">56042efcff5a42103ca0f6648c4fd93a</sys_scope>
+        <sys_scope_delete display_value="">27b1535901ac4ad4a151d045cd3ad1a1</sys_scope_delete>
+        <sys_update_name>sys_app_scan_payload_42e3e8cb34678610370549bc277cc4ce</sys_update_name>
+        <sys_update_version display_value="sys_app_scan_payload_42e3e8cb34678610370549bc277cc4ce">becc2153ffeb0a103ca0f6648c4fd991</sys_update_version>
+        <sys_updated_by>jspirko</sys_updated_by>
+        <sys_updated_on>2024-07-28 20:12:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

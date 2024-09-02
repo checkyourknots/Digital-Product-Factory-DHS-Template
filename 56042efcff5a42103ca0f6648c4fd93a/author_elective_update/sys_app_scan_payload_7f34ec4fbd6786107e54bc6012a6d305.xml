@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="DELETE">
+        <payload_hash>2eb4f034c1d9dbd0cf813ac7b1b407da9268961625879f8689f019e9b22512ed</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>6395c43bb86bca10246696fb597fdf6a</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list"><sys_ux_list action="INSERT_OR_UPDATE"><active>true</active><category display_value="">!!!sys_id_24766!!!</category><columns>number,product,service,consumer,assigned_to</columns><condition/><configuration display_value="CSM/FSM Configurable Workspace List Menu Config">0b62b8ba77d650102c30945caa106138</configuration><group_by_column/><groups/><hide_cell_filter>false</hide_cell_filter><hide_checkbox_hover>true</hide_checkbox_hover><hide_column_filtering>false</hide_column_filtering><hide_column_grouping>false</hide_column_grouping><hide_column_resizing>false</hide_column_resizing><hide_column_sorting>false</hide_column_sorting><hide_drag_and_drop>true</hide_drag_and_drop><hide_empty_state_image>false</hide_empty_state_image><hide_first_page>false</hide_first_page><hide_header>false</hide_header><hide_highlight_content>false</hide_highlight_content><hide_highlighted_values>false</hide_highlighted_values><hide_inline_editing>false</hide_inline_editing><hide_last_page>false</hide_last_page><hide_last_refreshed_text>false</hide_last_refreshed_text><hide_links>false</hide_links><hide_list_actions>false</hide_list_actions><hide_menu_button>false</hide_menu_button><hide_next_page>false</hide_next_page><hide_option_to_save_as>false</hide_option_to_save_as><hide_pages>false</hide_pages><hide_pagination>false</hide_pagination><hide_panel_advanced>false</hide_panel_advanced><hide_panel_button>false</hide_panel_button><hide_panel_condition_delete>false</hide_panel_condition_delete><hide_panel_footer>false</hide_panel_footer><hide_panel_restore>false</hide_panel_restore><hide_personalization>false</hide_personalization><hide_previous_page>false</hide_previous_page><hide_quick_edit>false</hide_quick_edit><hide_range>false</hide_range><hide_record_count_badge>false</hide_record_count_badge><hide_reference_links>false</hide_reference_links><hide_refresh_button>false</hide_refresh_button><hide_row_count>false</hide_row_count><hide_row_selector>false</hide_row_selector><hide_rows_per_page_selector>false</hide_rows_per_page_selector><hide_select_all>false</hide_select_all><hide_sharing_button>false</hide_sharing_button><hide_title>false</hide_title><highlight_content_color/><highlight_content_pattern/><list_attributes/><max_characters>4000</max_characters><order/><override_word_wrap_user_pref>false</override_word_wrap_user_pref><roles/><sys_class_name>sys_ux_list</sys_class_name><sys_created_by/><sys_created_on/><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>!!!sys_id_24765!!!</sys_id><sys_mod_count/><sys_name/><sys_overrides/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_policy/><sys_scope display_value="">!!!app_sys_id!!!</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on/><table>x_snc_723_3_non_application_cases</table><title>All</title><view/><word_wrap>false</word_wrap></sys_ux_list></record_update>]]></serialized_record>
+        <source_class>sys_ux_list</source_class>
+        <source_id>7504eafcff5a42103ca0f6648c4fd9d8</source_id>
+        <source_name>All</source_name>
+        <source_sys_id>a714f302ffa3c6503ca0f6648c4fd96f</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>jspirko</sys_created_by>
+        <sys_created_on>2024-07-26 14:27:34</sys_created_on>
+        <sys_id>7f34ec4fbd6786107e54bc6012a6d305</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>sys_ux_list</sys_name>
+        <sys_package display_value="Pub Sector - DHS Service Desk" source="x_snc_pub_sub_dh_1">56042efcff5a42103ca0f6648c4fd93a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - DHS Service Desk">56042efcff5a42103ca0f6648c4fd93a</sys_scope>
+        <sys_update_name>sys_app_scan_payload_7f34ec4fbd6786107e54bc6012a6d305</sys_update_name>
+        <sys_updated_by>jspirko</sys_updated_by>
+        <sys_updated_on>2024-07-28 20:12:01</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Pub Sector - DHS Service Desk">56042efcff5a42103ca0f6648c4fd93a</application>
+        <file_path/>
+        <instance_id>76bfb9f61ba9f594fe1b43f4bd4bcb74</instance_id>
+        <instance_name>dsforum</instance_name>
+        <name>sys_app_scan_payload_7f34ec4fbd6786107e54bc6012a6d305</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_app_scan_payload"&gt;&lt;sys_app_scan_payload action="INSERT_OR_UPDATE"&gt;&lt;payload_hash&gt;2eb4f034c1d9dbd0cf813ac7b1b407da9268961625879f8689f019e9b22512ed&lt;/payload_hash&gt;&lt;referenced_table&gt;sys_app&lt;/referenced_table&gt;&lt;scan_instance&gt;6395c43bb86bca10246696fb597fdf6a&lt;/scan_instance&gt;&lt;scan_source&gt;scan&lt;/scan_source&gt;&lt;serialized_record&gt;&lt;![CDATA[&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_ux_list"&gt;&lt;sys_ux_list action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;category display_value=""&gt;!!!sys_id_24766!!!&lt;/category&gt;&lt;columns&gt;number,product,service,consumer,assigned_to&lt;/columns&gt;&lt;condition/&gt;&lt;configuration display_value="CSM/FSM Configurable Workspace List Menu Config"&gt;0b62b8ba77d650102c30945caa106138&lt;/configuration&gt;&lt;group_by_column/&gt;&lt;groups/&gt;&lt;hide_cell_filter&gt;false&lt;/hide_cell_filter&gt;&lt;hide_checkbox_hover&gt;true&lt;/hide_checkbox_hover&gt;&lt;hide_column_filtering&gt;false&lt;/hide_column_filtering&gt;&lt;hide_column_grouping&gt;false&lt;/hide_column_grouping&gt;&lt;hide_column_resizing&gt;false&lt;/hide_column_resizing&gt;&lt;hide_column_sorting&gt;false&lt;/hide_column_sorting&gt;&lt;hide_drag_and_drop&gt;true&lt;/hide_drag_and_drop&gt;&lt;hide_empty_state_image&gt;false&lt;/hide_empty_state_image&gt;&lt;hide_first_page&gt;false&lt;/hide_first_page&gt;&lt;hide_header&gt;false&lt;/hide_header&gt;&lt;hide_highlight_content&gt;false&lt;/hide_highlight_content&gt;&lt;hide_highlighted_values&gt;false&lt;/hide_highlighted_values&gt;&lt;hide_inline_editing&gt;false&lt;/hide_inline_editing&gt;&lt;hide_last_page&gt;false&lt;/hide_last_page&gt;&lt;hide_last_refreshed_text&gt;false&lt;/hide_last_refreshed_text&gt;&lt;hide_links&gt;false&lt;/hide_links&gt;&lt;hide_list_actions&gt;false&lt;/hide_list_actions&gt;&lt;hide_menu_button&gt;false&lt;/hide_menu_button&gt;&lt;hide_next_page&gt;false&lt;/hide_next_page&gt;&lt;hide_option_to_save_as&gt;false&lt;/hide_option_to_save_as&gt;&lt;hide_pages&gt;false&lt;/hide_pages&gt;&lt;hide_pagination&gt;false&lt;/hide_pagination&gt;&lt;hide_panel_advanced&gt;false&lt;/hide_panel_advanced&gt;&lt;hide_panel_button&gt;false&lt;/hide_panel_button&gt;&lt;hide_panel_condition_delete&gt;false&lt;/hide_panel_condition_delete&gt;&lt;hide_panel_footer&gt;false&lt;/hide_panel_footer&gt;&lt;hide_panel_restore&gt;false&lt;/hide_panel_restore&gt;&lt;hide_personalization&gt;false&lt;/hide_personalization&gt;&lt;hide_previous_page&gt;false&lt;/hide_previous_page&gt;&lt;hide_quick_edit&gt;false&lt;/hide_quick_edit&gt;&lt;hide_range&gt;false&lt;/hide_range&gt;&lt;hide_record_count_badge&gt;false&lt;/hide_record_count_badge&gt;&lt;hide_reference_links&gt;false&lt;/hide_reference_links&gt;&lt;hide_refresh_button&gt;false&lt;/hide_refresh_button&gt;&lt;hide_row_count&gt;false&lt;/hide_row_count&gt;&lt;hide_row_selector&gt;false&lt;/hide_row_selector&gt;&lt;hide_rows_per_page_selector&gt;false&lt;/hide_rows_per_page_selector&gt;&lt;hide_select_all&gt;false&lt;/hide_select_all&gt;&lt;hide_sharing_button&gt;false&lt;/hide_sharing_button&gt;&lt;hide_title&gt;false&lt;/hide_title&gt;&lt;highlight_content_color/&gt;&lt;highlight_content_pattern/&gt;&lt;list_attributes/&gt;&lt;max_characters&gt;4000&lt;/max_characters&gt;&lt;order/&gt;&lt;override_word_wrap_user_pref&gt;false&lt;/override_word_wrap_user_pref&gt;&lt;roles/&gt;&lt;sys_class_name&gt;sys_ux_list&lt;/sys_class_name&gt;&lt;sys_created_by/&gt;&lt;sys_created_on/&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;!!!sys_id_24765!!!&lt;/sys_id&gt;&lt;sys_mod_count/&gt;&lt;sys_name/&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value=""&gt;!!!app_sys_id!!!&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value=""&gt;!!!app_sys_id!!!&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by/&gt;&lt;sys_updated_on/&gt;&lt;table&gt;x_snc_723_3_non_application_cases&lt;/table&gt;&lt;title&gt;All&lt;/title&gt;&lt;view/&gt;&lt;word_wrap&gt;false&lt;/word_wrap&gt;&lt;/sys_ux_list&gt;&lt;/record_update&gt;]]&gt;&lt;/serialized_record&gt;&lt;source_class&gt;sys_ux_list&lt;/source_class&gt;&lt;source_id&gt;7504eafcff5a42103ca0f6648c4fd9d8&lt;/source_id&gt;&lt;source_name&gt;All&lt;/source_name&gt;&lt;source_sys_id&gt;a714f302ffa3c6503ca0f6648c4fd96f&lt;/source_sys_id&gt;&lt;sys_class_name&gt;sys_app_scan_payload&lt;/sys_class_name&gt;&lt;sys_created_by&gt;jspirko&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-07-26 14:27:34&lt;/sys_created_on&gt;&lt;sys_id&gt;7f34ec4fbd6786107e54bc6012a6d305&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;sys_ux_list&lt;/sys_name&gt;&lt;sys_package display_value="Pub Sector - DHS Service Desk" source="x_snc_pub_sub_dh_1"&gt;56042efcff5a42103ca0f6648c4fd93a&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Pub Sector - DHS Service Desk"&gt;56042efcff5a42103ca0f6648c4fd93a&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_app_scan_payload_7f34ec4fbd6786107e54bc6012a6d305&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;jspirko&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-07-28 20:12:01&lt;/sys_updated_on&gt;&lt;version&gt;1&lt;/version&gt;&lt;/sys_app_scan_payload&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1969162651</payload_hash>
+        <record_name>sys_ux_list</record_name>
+        <reverted_from/>
+        <source>92042efcff5a42103ca0f6648c4fd93c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>jspirko</sys_created_by>
+        <sys_created_on>2024-07-28 20:12:01</sys_created_on>
+        <sys_id>704680ffff6bca103ca0f6648c4fd9fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190faf8b3a50000001</sys_recorded_at>
+        <sys_updated_by>jspirko</sys_updated_by>
+        <sys_updated_on>2024-07-28 20:12:01</sys_updated_on>
+        <type>Payload</type>
+        <update_guid>bc4680ff4a6bca10f98d1896e89e1fec</update_guid>
+        <update_guid_history>bc4680ff4a6bca10f98d1896e89e1fec:1969162651,742d25d363eb0a10ac7c3c05877b7e60:549499292,3f34ec4fcb6786100b709bc052f32c06:787443391</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jspirko</sys_created_by>
+        <sys_created_on>2024-07-31 20:25:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_scan_payload">sys_app_scan_payload</sys_db_object>
+        <sys_id>0c669e32cd404eeb8a4a40c4f11ef531</sys_id>
+        <sys_metadata>7f34ec4fbd6786107e54bc6012a6d305</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_ux_list</sys_name>
+        <sys_package display_value="Pub Sector - DHS Service Desk" source="x_snc_pub_sub_dh_1">56042efcff5a42103ca0f6648c4fd93a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - DHS Service Desk">56042efcff5a42103ca0f6648c4fd93a</sys_scope>
+        <sys_scope_delete display_value="">27b1535901ac4ad4a151d045cd3ad1a1</sys_scope_delete>
+        <sys_update_name>sys_app_scan_payload_7f34ec4fbd6786107e54bc6012a6d305</sys_update_name>
+        <sys_update_version display_value="sys_app_scan_payload_7f34ec4fbd6786107e54bc6012a6d305">704680ffff6bca103ca0f6648c4fd9fa</sys_update_version>
+        <sys_updated_by>jspirko</sys_updated_by>
+        <sys_updated_on>2024-07-31 20:25:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

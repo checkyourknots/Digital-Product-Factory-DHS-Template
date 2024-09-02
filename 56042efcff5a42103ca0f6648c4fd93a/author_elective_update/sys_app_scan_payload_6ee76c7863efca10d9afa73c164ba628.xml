@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="DELETE">
+        <payload_hash>00a328d5737c39239aed3363e954c68ce9d81d0afe1e6d6e4cdfce2c7bf5cc49</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>19d655a9cbab8250bcf4fcf902e86924</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list_category"><sys_ux_list_category action="INSERT_OR_UPDATE"><active>true</active><configuration display_value="CSM/FSM Configurable Workspace List Menu Config">0b62b8ba77d650102c30945caa106138</configuration><description/><order/><sys_class_name>sys_ux_list_category</sys_class_name><sys_created_by/><sys_created_on/><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>!!!sys_id_2624!!!</sys_id><sys_mod_count/><sys_name/><sys_overrides/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_policy/><sys_scope display_value="">!!!app_sys_id!!!</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on/><title>TANF </title></sys_ux_list_category></record_update>]]></serialized_record>
+        <source_class>sys_ux_list_category</source_class>
+        <source_id>7504eafcff5a42103ca0f6648c4fd9d8</source_id>
+        <source_name>TANF </source_name>
+        <source_sys_id>9b3c58fceb6fca105204f635cad0cd16</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>jspirko</sys_created_by>
+        <sys_created_on>2024-07-19 14:57:16</sys_created_on>
+        <sys_id>6ee76c7863efca10d9afa73c164ba628</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>sys_ux_list_category</sys_name>
+        <sys_package display_value="Pub Sector - DHS Service Desk" source="x_snc_pub_sub_dh_1">56042efcff5a42103ca0f6648c4fd93a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - DHS Service Desk">56042efcff5a42103ca0f6648c4fd93a</sys_scope>
+        <sys_update_name>sys_app_scan_payload_6ee76c7863efca10d9afa73c164ba628</sys_update_name>
+        <sys_updated_by>jspirko</sys_updated_by>
+        <sys_updated_on>2024-07-22 02:20:12</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Pub Sector - DHS Service Desk">56042efcff5a42103ca0f6648c4fd93a</application>
+        <file_path/>
+        <instance_id>76bfb9f61ba9f594fe1b43f4bd4bcb74</instance_id>
+        <instance_name>dsforum</instance_name>
+        <name>sys_app_scan_payload_6ee76c7863efca10d9afa73c164ba628</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_app_scan_payload"&gt;&lt;sys_app_scan_payload action="INSERT_OR_UPDATE"&gt;&lt;payload_hash&gt;00a328d5737c39239aed3363e954c68ce9d81d0afe1e6d6e4cdfce2c7bf5cc49&lt;/payload_hash&gt;&lt;referenced_table&gt;sys_app&lt;/referenced_table&gt;&lt;scan_instance&gt;19d655a9cbab8250bcf4fcf902e86924&lt;/scan_instance&gt;&lt;scan_source&gt;scan&lt;/scan_source&gt;&lt;serialized_record&gt;&lt;![CDATA[&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_ux_list_category"&gt;&lt;sys_ux_list_category action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;configuration display_value="CSM/FSM Configurable Workspace List Menu Config"&gt;0b62b8ba77d650102c30945caa106138&lt;/configuration&gt;&lt;description/&gt;&lt;order/&gt;&lt;sys_class_name&gt;sys_ux_list_category&lt;/sys_class_name&gt;&lt;sys_created_by/&gt;&lt;sys_created_on/&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;!!!sys_id_2624!!!&lt;/sys_id&gt;&lt;sys_mod_count/&gt;&lt;sys_name/&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value=""&gt;!!!app_sys_id!!!&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value=""&gt;!!!app_sys_id!!!&lt;/sys_scope&gt;&lt;sys_update_name/&gt;&lt;sys_updated_by/&gt;&lt;sys_updated_on/&gt;&lt;title&gt;TANF &lt;/title&gt;&lt;/sys_ux_list_category&gt;&lt;/record_update&gt;]]&gt;&lt;/serialized_record&gt;&lt;source_class&gt;sys_ux_list_category&lt;/source_class&gt;&lt;source_id&gt;7504eafcff5a42103ca0f6648c4fd9d8&lt;/source_id&gt;&lt;source_name&gt;TANF &lt;/source_name&gt;&lt;source_sys_id&gt;9b3c58fceb6fca105204f635cad0cd16&lt;/source_sys_id&gt;&lt;sys_class_name&gt;sys_app_scan_payload&lt;/sys_class_name&gt;&lt;sys_created_by&gt;jspirko&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-07-19 14:57:16&lt;/sys_created_on&gt;&lt;sys_id&gt;6ee76c7863efca10d9afa73c164ba628&lt;/sys_id&gt;&lt;sys_mod_count&gt;9&lt;/sys_mod_count&gt;&lt;sys_name&gt;sys_ux_list_category&lt;/sys_name&gt;&lt;sys_package display_value="Pub Sector - DHS Service Desk" source="x_snc_pub_sub_dh_1"&gt;56042efcff5a42103ca0f6648c4fd93a&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Pub Sector - DHS Service Desk"&gt;56042efcff5a42103ca0f6648c4fd93a&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_app_scan_payload_6ee76c7863efca10d9afa73c164ba628&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;jspirko&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-07-22 02:20:12&lt;/sys_updated_on&gt;&lt;version&gt;1&lt;/version&gt;&lt;/sys_app_scan_payload&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>56542166</payload_hash>
+        <record_name>sys_ux_list_category</record_name>
+        <reverted_from/>
+        <source>92042efcff5a42103ca0f6648c4fd93c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>jspirko</sys_created_by>
+        <sys_created_on>2024-07-22 02:20:12</sys_created_on>
+        <sys_id>7967ddadebab82505204f635cad0cd3c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190d83d46140000001</sys_recorded_at>
+        <sys_updated_by>jspirko</sys_updated_by>
+        <sys_updated_on>2024-07-22 02:20:12</sys_updated_on>
+        <type>Payload</type>
+        <update_guid>7d67ddadeeab8250ff335cfb2f8e743b</update_guid>
+        <update_guid_history>7d67ddadeeab8250ff335cfb2f8e743b:56542166,9292ff11ad238250ba8f66958a43de20:-817873662,6f28af1959af425089aa78b162241abf:262119158,3b70db1dba6b42506a84aed6a213d48a:-1636796209,0a9cfb0957630250d5449903cebc51bd:2042557231,b39173c1c0afce1047b17a8fffb97617:1967569931,62d72ef8dfa74e1082a79e0238c0a60d:-1416921628,0411d9b45de70e101ec157f6e8f1b045:-268990810,ef4685bc7be30e1022cc9ce4671528af:117176868,2ee76c784fefca10a3a4255a40ffa029:-619150415</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jspirko</sys_created_by>
+        <sys_created_on>2024-07-23 01:00:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_scan_payload">sys_app_scan_payload</sys_db_object>
+        <sys_id>034140e8a71f4492a9143dcfe5391344</sys_id>
+        <sys_metadata>6ee76c7863efca10d9afa73c164ba628</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_ux_list_category</sys_name>
+        <sys_package display_value="Pub Sector - DHS Service Desk" source="x_snc_pub_sub_dh_1">56042efcff5a42103ca0f6648c4fd93a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - DHS Service Desk">56042efcff5a42103ca0f6648c4fd93a</sys_scope>
+        <sys_scope_delete display_value="">27b1535901ac4ad4a151d045cd3ad1a1</sys_scope_delete>
+        <sys_update_name>sys_app_scan_payload_6ee76c7863efca10d9afa73c164ba628</sys_update_name>
+        <sys_update_version display_value="sys_app_scan_payload_6ee76c7863efca10d9afa73c164ba628">7967ddadebab82505204f635cad0cd3c</sys_update_version>
+        <sys_updated_by>jspirko</sys_updated_by>
+        <sys_updated_on>2024-07-23 01:00:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

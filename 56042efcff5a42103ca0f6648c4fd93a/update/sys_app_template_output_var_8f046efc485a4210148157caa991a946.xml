@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_template_output_var">
+    <sys_app_template_output_var action="INSERT_OR_UPDATE">
+        <default/>
+        <description/>
+        <flow_output_variable display_value="app_sys_id">72042efcff5a42103ca0f6648c4fd9f9</flow_output_variable>
+        <label>app_sys_id</label>
+        <name>app_sys_id</name>
+        <sys_class_name>sys_app_template_output_var</sys_class_name>
+        <sys_created_by>jspirko</sys_created_by>
+        <sys_created_on>2024-05-18 20:41:08</sys_created_on>
+        <sys_id>8f046efc485a4210148157caa991a946</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>app_sys_id</sys_name>
+        <sys_package display_value="Pub Sector - DHS Service Desk" source="x_snc_pub_sub_dh_1">56042efcff5a42103ca0f6648c4fd93a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - DHS Service Desk">56042efcff5a42103ca0f6648c4fd93a</sys_scope>
+        <sys_update_name>sys_app_template_output_var_8f046efc485a4210148157caa991a946</sys_update_name>
+        <sys_updated_by>jspirko</sys_updated_by>
+        <sys_updated_on>2024-05-18 20:41:08</sys_updated_on>
+        <template display_value="Pub Sector - DHS Service Desk">ae04eafcc35a4210e14dfd45499c8162</template>
+        <type>string</type>
+    </sys_app_template_output_var>
+</record_update>

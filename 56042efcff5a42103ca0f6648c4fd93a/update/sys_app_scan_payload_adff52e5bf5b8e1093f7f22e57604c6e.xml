@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="INSERT_OR_UPDATE">
+        <payload_hash>2c5f4c367b71d109a440505b5b9cee4c6b16cb8c43c1ccf7d153de113d384aed</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>93c985ef31041e90a9412f8f29cee214</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="">!!!sys_id_675!!!</sc_cat_item><sc_category display_value="Program Support">572f79a5eb578e105204f635cad0cdaa</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_886!!!</sys_id><sys_mod_count/><sys_name/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_policy/><sys_scope display_value="">!!!app_sys_id!!!</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on/></sc_cat_item_category></record_update>]]></serialized_record>
+        <source_class>sc_cat_item_category</source_class>
+        <source_id>7504eafcff5a42103ca0f6648c4fd9d8</source_id>
+        <source_name>Program Support.{program name support} Service Desk Config</source_name>
+        <source_sys_id>f0bff129eb578e105204f635cad0cd2f</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>jspirko</sys_created_by>
+        <sys_created_on>2024-07-09 21:21:30</sys_created_on>
+        <sys_id>adff52e5bf5b8e1093f7f22e57604c6e</sys_id>
+        <sys_mod_count>49</sys_mod_count>
+        <sys_name>sc_cat_item_category</sys_name>
+        <sys_package display_value="Pub Sector - DHS Service Desk" source="x_snc_pub_sub_dh_1">56042efcff5a42103ca0f6648c4fd93a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - DHS Service Desk">56042efcff5a42103ca0f6648c4fd93a</sys_scope>
+        <sys_update_name>sys_app_scan_payload_adff52e5bf5b8e1093f7f22e57604c6e</sys_update_name>
+        <sys_updated_by>jspirko</sys_updated_by>
+        <sys_updated_on>2024-08-22 03:01:04</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+</record_update>

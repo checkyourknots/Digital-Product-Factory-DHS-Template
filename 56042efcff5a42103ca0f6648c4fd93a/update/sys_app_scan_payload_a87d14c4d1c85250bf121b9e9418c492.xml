@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_scan_payload">
+    <sys_app_scan_payload action="INSERT_OR_UPDATE">
+        <payload_hash>2296f9ef56664d53fc58cc20b59d63b527818696707744cb9230517aa482a48b</payload_hash>
+        <referenced_table>sys_app</referenced_table>
+        <scan_instance>93c985ef31041e90a9412f8f29cee214</scan_instance>
+        <scan_source>scan</scan_source>
+        <serialized_record><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m"><sys_package_dependency_m2m action="INSERT_OR_UPDATE"><dependency display_value="">!!!source_app_dependency_26845!!!</dependency><min_version>2.4.2</min_version><sys_created_by/><sys_created_on/><sys_id>!!!sys_id_26844!!!</sys_id><sys_mod_count/><sys_package display_value="">!!!app_sys_id!!!</sys_package><sys_updated_by/><sys_updated_on/></sys_package_dependency_m2m></record_update>]]></serialized_record>
+        <source_class>sys_package_dependency_m2m</source_class>
+        <source_id>7504eafcff5a42103ca0f6648c4fd9d8</source_id>
+        <source_name/>
+        <source_sys_id>2bc8d044eb8852505204f635cad0cdcf</source_sys_id>
+        <sys_class_name>sys_app_scan_payload</sys_class_name>
+        <sys_created_by>jspirko</sys_created_by>
+        <sys_created_on>2024-08-11 02:47:28</sys_created_on>
+        <sys_id>a87d14c4d1c85250bf121b9e9418c492</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>sys_package_dependency_m2m</sys_name>
+        <sys_package display_value="Pub Sector - DHS Service Desk" source="x_snc_pub_sub_dh_1">56042efcff5a42103ca0f6648c4fd93a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pub Sector - DHS Service Desk">56042efcff5a42103ca0f6648c4fd93a</sys_scope>
+        <sys_update_name>sys_app_scan_payload_a87d14c4d1c85250bf121b9e9418c492</sys_update_name>
+        <sys_updated_by>jspirko</sys_updated_by>
+        <sys_updated_on>2024-08-22 03:05:23</sys_updated_on>
+        <version>1</version>
+    </sys_app_scan_payload>
+</record_update>
